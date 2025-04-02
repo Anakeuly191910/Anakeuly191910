@@ -1,8 +1,8 @@
-👋 Hi, I’m @Anakeuly191910  
-👀 I’m interested in web development, data science, and machine learning.  
-🌱 I’m currently learning Python, JavaScript, and exploring cloud computing.  
-💞️ I’m looking to collaborate on open-source projects, especially in tech innovation and AI.  
-📫 How to reach me: anakeuly0703@gmail.com
-😄 Pronouns: she/her  
-⚡ Fun fact: I love solving puzzles and can spend hours on a good Sudoku game!  
+👋 Olá, eu sou @Anakeuly191910  
+👀 Tenho interesse em desenvolvimento web, ciência de dados e aprendizado de máquina.  
+🌱 Atualmente, estou aprendendo Python, JavaScript e explorando computação em nuvem.  
+💞️ Estou procurando colaborar em projetos de código aberto, especialmente em inovação tecnológica e IA.  
+📫 Como me encontrar: anakeuly0703@gmail.com
+😄 Pronomes: ela/dela  
+⚡ Curiosidade: Adoro resolver quebra-cabeças e posso passar horas em um bom jogo de Sudoku!  
 
